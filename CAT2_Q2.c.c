@@ -3,7 +3,7 @@
 application to declare an initialize a 2D array named scores with 2rows and 2 columns 
 Author:Loren Bruse 0chieng
 Reg no:CT101/G/21905/24
-Date:24/09/2024
+Date:07/11/2024
 */
 
 #include <stdio.h>
