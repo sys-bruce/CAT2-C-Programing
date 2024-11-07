@@ -3,7 +3,7 @@
 application to print the gross pay,the taxes and the net pay
 Author:Loren Bruse 0chieng
 Reg no:CT101/G/21905/24
-Date:24/09/2024
+Date:07/11/2024
 */
 
 #include <stdio.h>
