@@ -3,7 +3,7 @@
 application to declare a variable of the structure type and initialize it with the data
 Author:Loren Bruse 0chieng
 Reg no:CT101/G/21905/24
-Date:24/09/2024
+Date:07/11/2024
 */
 
 // Declare the structure 'employee'
